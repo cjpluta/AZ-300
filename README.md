@@ -9,9 +9,9 @@ AZ-300 Schedule
 - AZ-300L01 - Module 1 - Lesson 5 - Subscriptions and Accounts
 - AZ-300L01 - Module 5 - Managing Identities
 - AZ-300L01 - Module 4 - Configuring and Managing Virtual Networks
-- Lab - Implementing User-Assigned Managed Identities for Azure Resources
+	- Lab - Implementing User-Assigned Managed Identities for Azure Resources
 
-##Day 2
+## Day 2
 - AZ-300L02 - Module 3 - Implementing Advanced Virtual Networking
 - AZ-300L01 - Module 2 - Implementing and Managing Storage
 - AZ-300L01 - Module 3 - Deploying and Managing Virtual Machines
