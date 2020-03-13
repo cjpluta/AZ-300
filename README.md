@@ -49,6 +49,7 @@ AZ-300 Schedule
 - AZ-300L03 - Module 3 - Measure Throughput and Structure of Data Access
 - AZ-300L03 - Module 4 - Implementing Authentication
 - AZ-300L03 - Module 5 - Implementing Secure Data
+- AZ-300L03 - Module 6 - Business Continuity and Resiliency in Azure
 - AZ-300L06 - Module 5 - Developing Azure Cognitive Services Solutions
 	- Demo - https://docs.microsoft.com/en-us/azure/azure-functions/functions-twitter-email
 	- Lab - Implementing Azure Load Balancer Standard
