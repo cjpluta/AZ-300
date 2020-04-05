@@ -1,5 +1,9 @@
 # AZ-300
-AZ-300 Schedule
+AZ-300 Links and Schedule
+
+## Links
+- Lab Exercises - https://aka.ms/az300labs
+- Lab Files - https://aka.ms/az300labfiles
 
 ## Day 1
 - Azure Regions - https://azure.microsoft.com/en-us/global-infrastructure/regions/
