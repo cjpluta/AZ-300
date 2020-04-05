@@ -4,6 +4,7 @@ AZ-300 Links and Schedule
 ## Links
 - Lab Exercises - https://aka.ms/az300labs
 - Lab Files - https://aka.ms/az300labfiles
+- SkillPipe - https://www.skillpipe.com
 
 ## Day 1
 - Azure Regions - https://azure.microsoft.com/en-us/global-infrastructure/regions/
