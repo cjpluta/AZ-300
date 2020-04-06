@@ -5,6 +5,7 @@ AZ-300 Links and Schedule
 - Lab Exercises - https://aka.ms/az300labs
 - Lab Files - https://aka.ms/az300labfiles
 - SkillPipe - https://www.skillpipe.com
+- Azure Pricing Calculator - https://azure.microsoft.com/en-us/pricing/calculator/
 
 ## Day 1
 - Azure Regions - https://azure.microsoft.com/en-us/global-infrastructure/regions/
