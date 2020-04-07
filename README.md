@@ -6,6 +6,7 @@ AZ-300 Links and Schedule
 - Lab Files - https://aka.ms/az300labfiles
 - SkillPipe - https://www.skillpipe.com
 - Azure Pricing Calculator - https://azure.microsoft.com/en-us/pricing/calculator/
+- Azure N-Tier Architecture - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-sql-server
 
 ## Day 1
 - Azure Regions - https://azure.microsoft.com/en-us/global-infrastructure/regions/
