@@ -28,7 +28,7 @@ AZ-300 Links and Schedule
 ## Day 3
 - AZ-300L04 - Module 3 - Using Azure Kubernetes Service
 - AZ-300L01 - Module 1 - Lessons 1-4 - Managing Azure Subscriptions and Resources
-- AZ-300L02 - Module 3 - Evaluating and Performing Server Migration to Azure
+- AZ-300L02 - Module 1 - Evaluating and Performing Server Migration to Azure
 	- Lab - Exploring Monitoring Capabilities in Azure
 	- Lab - Implementing Azure to Azure Migration
 	- Bonus Lab - Deploying Managed Containerized Workloads to Azure - https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign/blob/master/Instructions/AZ-301T03_Lab_Mod02_Deploying%20Managed%20Containerized%20Workloads%20to%20Azure.md
