@@ -2,10 +2,18 @@
 AZ-300 Links and Schedule
 
 ## Links
+
+### Course Materials
+- SkillPipe - https://www.skillpipe.com
 - Lab Exercises - https://aka.ms/az300labs
 - Lab Files - https://aka.ms/az300labfiles
 - SkillPipe - https://www.skillpipe.com
+
+### Azure Tools
 - Azure Pricing Calculator - https://azure.microsoft.com/en-us/pricing/calculator/
+
+### Azure Documentation
+- Azure Architecture Center - https://docs.microsoft.com/en-us/azure/architecture/
 - Azure N-Tier Architecture - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-sql-server
 - Create your First Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-csharp
 
