@@ -7,6 +7,7 @@ AZ-300 Links and Schedule
 - SkillPipe - https://www.skillpipe.com
 - Azure Pricing Calculator - https://azure.microsoft.com/en-us/pricing/calculator/
 - Azure N-Tier Architecture - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-sql-server
+- Create your First Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-csharp
 
 ## Day 1
 - Azure Regions - https://azure.microsoft.com/en-us/global-infrastructure/regions/
