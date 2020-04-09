@@ -15,7 +15,10 @@ AZ-300 Links and Schedule
 ### Azure Documentation
 - Azure Architecture Center - https://docs.microsoft.com/en-us/azure/architecture/
 - Azure N-Tier Architecture - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-sql-server
-- Create your First Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-csharp
+
+### Azure Serverless
+- Create Your First Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-csharp
+- Create a Function that Integrates with Logic Apps - https://docs.microsoft.com/en-us/azure/azure-functions/functions-twitter-email
 
 ## Day 1
 - Azure Regions - https://azure.microsoft.com/en-us/global-infrastructure/regions/
