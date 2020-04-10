@@ -20,6 +20,9 @@ AZ-300 Links and Schedule
 - Create Your First Azure Function - https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-csharp
 - Create a Function that Integrates with Logic Apps - https://docs.microsoft.com/en-us/azure/azure-functions/functions-twitter-email
 
+### Post-Course
+- Post-Course Takeaways - https://aka.ms/jwtakeaway
+
 ## Day 1
 - Azure Regions - https://azure.microsoft.com/en-us/global-infrastructure/regions/
 - Azure Region Pairs - https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions
