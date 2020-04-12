@@ -35,10 +35,17 @@ AZ-300 Links and Schedule
 
 ## Day 2
 - AZ-300L02 - Module 3 - Implementing Advanced Virtual Networking
+	- Lab - Configuring VNET Peering and Service Chaining
 - AZ-300L01 - Module 2 - Implementing and Managing Storage
 - AZ-300L01 - Module 3 - Deploying and Managing Virtual Machines
-	- Lab - Configuring VNET Peering and Service Chaining
-	- Lab - Implementing Custom Azure VM Images
+	- Lesson 1: Creating Virtual Machines
+	- Lesson 3: Virtual Machine Extensions
+	- Bonus: ARM Templates
+	- Lesson 2: Backup and Restore
+	- Bonus: High Availability
+	- Bonus: Virtual Machine Scale Sets
+	- Bonus: Dedicated Hosts
+	- Online Lab: Implementing Custom Azure VM Images
 			
 ## Day 3
 - AZ-300L04 - Module 3 - Using Azure Kubernetes Service
