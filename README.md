@@ -38,7 +38,7 @@ AZ-300 Links and Schedule
 - Azure Availability Sets - <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability>
 - Azure Availability Zones - <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability>
 
-### Azure Identity
+### Azure Security
 
 - AZ-300L01 - Module 01 - Lesson 5 - Subscriptions and Accounts
 - BONUS - Azure Policy
@@ -47,9 +47,6 @@ AZ-300 Links and Schedule
 - AZ-300L03 - Module 04 - Lesson 2 - Implement Multi-Factor Authentication
 - AZ-300L03 - Module 04 - Lesson 6 - Implement Managed Identities for Azure Resources
 - AZ-300L03 - Module 04 - Lesson 4 - Role-based Access Control (RBAC)
-- AZ-300L03 - Module 04 - Lesson 1 - Implementing Authentication in Applications
-- AZ-300L03 - Module 04 - Lesson 3 - Claims-based Authorization
-- AZ-300L03 - Module 04 - Lesson 5 - Implement OAuth2 Authentication
 - Online Lab - Implementing User-Assigned Managed Identities for Azure Resources
 - Online Lab - Implementing Custom Role Based Access Control (RBAC) Roles
 
@@ -132,6 +129,12 @@ AZ-300 Links and Schedule
 - AZ-300L04 - Module 01 - Lesson 5 - Creating an App Service Logic App
 - Online Lab - Configuring a Messaged Based Integration Architecture
 - Online Lab - Implementing Azure Logic Apps
+
+### Azure Security
+
+- AZ-300L03 - Module 04 - Lesson 1 - Implementing Authentication in Applications
+- AZ-300L03 - Module 04 - Lesson 3 - Claims-based Authorization
+- AZ-300L03 - Module 04 - Lesson 5 - Implement OAuth2 Authentication
 
 ### Cognitive Services
 
