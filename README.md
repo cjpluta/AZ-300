@@ -47,8 +47,8 @@ AZ-300 Links and Schedule
 - AZ-300L03 - Module 04 - Lesson 2 - Implement Multi-Factor Authentication
 - AZ-300L03 - Module 04 - Lesson 6 - Implement Managed Identities for Azure Resources
 - AZ-300L03 - Module 04 - Lesson 4 - Role-based Access Control (RBAC)
-- Online Lab - Implementing User-Assigned Managed Identities for Azure Resources
-- Online Lab - Implementing Custom Role Based Access Control (RBAC) Roles
+- Online Lab - AZ-300L01 - Implementing User-Assigned Managed Identities for Azure Resources
+- Online Lab - AZ-300L03 - Implementing Custom Role Based Access Control (RBAC) Roles
 
 ### Azure Networking
 
