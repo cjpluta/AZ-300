@@ -127,8 +127,8 @@ AZ-300 Links and Schedule
 - AZ-300L06 - Module 02 - Lesson 4 - Create and Configure a Notification Hub
 - AZ-300L02 - Module 02 - Lesson 8 - Managing Logic Apps
 - AZ-300L04 - Module 01 - Lesson 5 - Creating an App Service Logic App
-- Online Lab - Configuring a Messaged Based Integration Architecture
 - Online Lab - Implementing Azure Logic Apps
+- BONUS Lab - Configuring a Messaged Based Integration Architecture
 
 ### Azure Security
 
