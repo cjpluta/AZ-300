@@ -37,6 +37,7 @@ AZ-300 Links and Schedule
 - Azure Region Pairs - <https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions>
 - Azure Availability Sets - <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability>
 - Azure Availability Zones - <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability>
+- Azure Portal Demo
 
 ### Azure Security
 
