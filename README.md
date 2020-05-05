@@ -56,9 +56,9 @@ AZ-300 Links and Schedule
 - AZ-300L01 - Module 04 - Lesson 1 - Azure Virtual Networks
 - AZ-300L01 - Module 04 - Lesson 2 - Review of IP Addressing
 - AZ-300L01 - Module 04 - Lesson 6 - Network Security Groups
-- AZ-300L01 - Module 04 - Lesson 3 - Network Routing
 - AZ-300L01 - Module 04 - Lesson 4 - Intersite Connectivity
 - AZ-300L01 - Module 04 - Lesson 5 - Virtual Network Peering
+- AZ-300L01 - Module 04 - Lesson 3 - Network Routing
 - AZ-300L02 - Module 03 - Lesson 1 - Azure Load Balancer
 - BONUS - Azure Application Gateway
 - AZ-300L02 - Module 03 - Lesson 2 - Application Load Balancing
