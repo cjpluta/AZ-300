@@ -112,7 +112,7 @@ AZ-300 Links and Schedule
 - AZ-300L04 - Module 03 - Lesson 1 - Creating an Azure Kubernetes Service Cluster
 - AZ-300L04 - Module 03 - Lesson 2 - Deploy an AKS Cluster
 - AZ-300L04 - Module 03 - Lesson 3 - Publish a Container Image to Azure Container Registry
-- AZ-300L04 - Module 03 - Lesson 4 - Create and Run Container Images in Azure Container Services
+- AZ-300L04 - Module 03 - Lesson 4 - Create and Run Container Images in Azure Container Instances
 - AZ-300L04 - Module 01 - Lesson 1 - Azure App Service Core Components
 - AZ-300L02 - Module 02 - Lesson 1 - Deploying Web Apps
 - AZ-300L04 - Module 01 - Lesson 2 - Creating an Azure App Service Web App
