@@ -98,13 +98,11 @@ AZ-300 Links and Schedule
 - AZ-300L02 - Module 01 - Lesson 2 - Azure Migrate
 - AZ-300L02 - Module 01 - Lesson 3 - Azure Site Recovery
 - AZ-300L02 - Module 01 - Lesson 4 - Prepare the Infrastructure
-- Online Lab - Implementing Azure to Azure Migration
 - AZ-300L01 - Module 01 - Lesson 1 - Exploring Monitoring Capabilities in Azure
 - AZ-300L01 - Module 01 - Lesson 3 - Azure Monitor Logs and Log Analytics
 - AZ-300L01 - Module 01 - Lesson 2 - Azure Alerts
 - AZ-300L01 - Module 01 - Lesson 4 - Network Watcher
-- AZ-300L06 - Module 04 - Lesson 1 - Implement Autoscaling Rules and Patterns
-- AZ-300L06 - Module 04 - Lesson 3 - Implement Code that Addresses a Transient State
+- Online Lab - Implementing Azure to Azure Migration
 - Online Lab - Exploring Monitoring Capabilities in Azure
 
 ### Apps
