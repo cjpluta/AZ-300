@@ -17,8 +17,8 @@ AZ-300 Links and Schedule
 
 ### Azure Documentation
 
-- Azure ARM Template Reference - <https://docs.microsoft.com/en-us/azure/templates/>
 - Azure Architecture Center - <https://docs.microsoft.com/en-us/azure/architecture/>
+- Azure ARM Template Reference - <https://docs.microsoft.com/en-us/azure/templates/>
 - Azure CLI Reference - <https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest>
 - Azure N-Tier Architecture - <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-sql-server>
 
