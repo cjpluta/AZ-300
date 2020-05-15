@@ -7,7 +7,7 @@ AZ-300 Links and Schedule
 ### Course Materials
 
 - SkillPipe - <https://www.skillpipe.com>
-- Learn on Demand Systems - <https://tsfb.learnondemand.net/>
+- Learn on Demand Systems - <https://aka.ms/tsfblabs/>
 - Lab Exercises - <https://aka.ms/az300labs>
 - Lab Files - <https://aka.ms/az300labfiles>
 
