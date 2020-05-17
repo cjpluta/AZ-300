@@ -33,7 +33,16 @@ AZ-300 Links and Schedule
 
 ## Schedule
 
-### Introduction
+### Monday 
+
+#### Logistics
+- Introductions and Agenda
+- Setup your Skillpipe account and redeem courseware code
+- Login (or setup) a personal Microsoft account
+- Connect to lab environment and redeem training key
+- Redeem Azure Pass using your personal Microsoft Account
+
+#### Introduction
 
 - Azure Regions - <https://azure.microsoft.com/en-us/global-infrastructure/regions/>
 - Azure Region Pairs - <https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions>
@@ -41,7 +50,7 @@ AZ-300 Links and Schedule
 - Azure Availability Zones - <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability>
 - Azure Portal Demo
 
-### Azure Security
+#### Azure Security
 
 - AZ-300L01 - Module 01 - Lesson 5 - Subscriptions and Accounts
 - BONUS - Azure Policy
@@ -50,26 +59,30 @@ AZ-300 Links and Schedule
 - AZ-300L03 - Module 04 - Lesson 2 - Implement Multi-Factor Authentication
 - AZ-300L03 - Module 04 - Lesson 6 - Implement Managed Identities for Azure Resources
 - AZ-300L03 - Module 04 - Lesson 4 - Role-based Access Control (RBAC)
-- Online Lab - AZ-300L01 - Implementing User-Assigned Managed Identities for Azure Resources
-- Online Lab - AZ-300L03 - Implementing Custom Role Based Access Control (RBAC) Roles
+- Online Lab - Lab Launch 1, Lab C - Implementing User-Assigned Managed Identities for Azure Resources
+- Online Lab - Lab Launch 3, Lab C - Implementing Custom Role Based Access Control (RBAC) Roles
 
-### Azure Networking
+### Tuesday 
+
+#### Azure Networking
 
 - AZ-300L01 - Module 04 - Lesson 1 - Azure Virtual Networks
 - AZ-300L01 - Module 04 - Lesson 2 - Review of IP Addressing
 - AZ-300L01 - Module 04 - Lesson 6 - Network Security Groups
 - AZ-300L01 - Module 04 - Lesson 4 - Intersite Connectivity
 - AZ-300L01 - Module 04 - Lesson 5 - Virtual Network Peering
+- Online Lab - Lab Launch #2, Lab C Configuring VNET Peering and Service Chaining
 - AZ-300L01 - Module 04 - Lesson 3 - Network Routing
 - AZ-300L02 - Module 03 - Lesson 1 - Azure Load Balancer
 - BONUS - Azure Application Gateway
 - AZ-300L02 - Module 03 - Lesson 2 - Application Load Balancing
 - AZ-300L02 - Module 03 - Lesson 4 - ExpressRoute Connections
 - AZ-300L02 - Module 03 - Lesson 5 - Azure Virtual WAN
-- Online Lab - Configuring VNET Peering and Service Chaining
-- Online Lab - Implementing Azure Load Balancer Standard
+- Online Lab - Lab Launch #3, Lab B - Implementing Azure Load Balancer Standard
 
-### Azure Storage
+### Wednesday 
+
+#### Azure Storage
 
 - AZ-300L01 - Module 02 - Lesson 1 - Azure Storage Accounts
 - AZ-300L01 - Module 02 - Lesson 3 - Storing and Accessing Data
@@ -81,9 +94,9 @@ AZ-300 Links and Schedule
 - AZ-300L03 - Module 03 - Lesson 3 - Implement Azure Confidential Computing
 - AZ-300L03 - Module 05 - Lesson 4 - Implement SSL and TLS Communications
 - AZ-300L03 - Module 05 - Lesson 5 - Key Vault
-- Online Lab - Implementing Azure Storage Access Controls
+- Online Lab - Lab Launch #3, Lab A, Implementing Azure Storage Access Controls
 
-### Azure Virtual Machines
+#### Azure Virtual Machines
 
 - AZ-300L01 - Module 03 - Lesson 1 - Creating Virtual Machines
 - AZ-300L01 - Module 03 - Lesson 3 - Virtual Machine Extensions
@@ -92,9 +105,11 @@ AZ-300 Links and Schedule
 - BONUS - High Availability
 - BONUS - Virtual Machine Scale Sets
 - BONUS - Dedicated Hosts
-- Online Lab - Implementing Custom Azure VM Images
+- Online Lab - Lab Launch #1, Lab A - Implementing Custom Azure VM Images
 
-### Workloads
+### Thursday 
+
+#### Workloads
 
 - AZ-300L02 - Module 01 - Lesson 1 - Migrate to Azure
 - AZ-300L02 - Module 01 - Lesson 2 - Azure Migrate
@@ -104,10 +119,10 @@ AZ-300 Links and Schedule
 - AZ-300L01 - Module 01 - Lesson 3 - Azure Monitor Logs and Log Analytics
 - AZ-300L01 - Module 01 - Lesson 2 - Azure Alerts
 - AZ-300L01 - Module 01 - Lesson 4 - Network Watcher
-- Online Lab - Implementing Azure to Azure Migration
-- Online Lab - Exploring Monitoring Capabilities in Azure
+- Online Lab - Lab Launch #2, Lab A - Implementing Azure to Azure Migration
+- Online Lab - Lab Launch #1, Lab A - Exploring Monitoring Capabilities in Azure
 
-### Apps
+#### Apps
 
 - AZ-300L04 - Module 03 - Lesson 1 - Creating an Azure Kubernetes Service Cluster
 - AZ-300L04 - Module 03 - Lesson 2 - Deploy an AKS Cluster
@@ -119,6 +134,12 @@ AZ-300 Links and Schedule
 - AZ-300L02 - Module 02 - Lesson 3 - App Service Security
 - AZ-300L02 - Module 02 - Lesson 2 - Managing Web Apps
 - AZ-300L04 - Module 01 - Lesson 3 - Creating Background Tasks
+- BONUS Lab - [Implement Web Apps](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
+
+### Friday
+
+#### Apps *(Continued)*
+
 - AZ-300L02 - Module 02 - Lesson 4 - Serverless Computing Concepts
 - AZ-300L02 - Module 02 - Lesson 5 - Managing Azure Functions
 - AZ-300L04 - Module 04 - Lesson 3 - Implement Durable Functions
@@ -128,15 +149,11 @@ AZ-300 Links and Schedule
 - AZ-300L06 - Module 02 - Lesson 4 - Create and Configure a Notification Hub
 - AZ-300L02 - Module 02 - Lesson 8 - Managing Logic Apps
 - AZ-300L04 - Module 01 - Lesson 5 - Creating an App Service Logic App
-- Online Lab - Implementing Azure Logic Apps
-- BONUS Lab - Configuring a Messaged Based Integration Architecture
+- Online Lab -  Lab Launch 4, Lab A - Implementing Azure Logic Apps
+- BONUS Lab - Lab Launch 6, Lab A - Configuring a Messaged Based Integration Architecture
 
-### Azure Security
+#### Azure Security
 
 - AZ-300L03 - Module 04 - Lesson 1 - Implementing Authentication in Applications
 - AZ-300L03 - Module 04 - Lesson 3 - Claims-based Authorization
 - AZ-300L03 - Module 04 - Lesson 5 - Implement OAuth2 Authentication
-
-### Cognitive Services
-
-- BONUS - Azure Cognitive Services Demonstration
