@@ -1,4 +1,4 @@
-# AZ-300
+# Azure Architect Technologies (AZ-300)
 
 AZ-300 Links and Schedule
 
