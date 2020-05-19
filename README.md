@@ -71,7 +71,7 @@ AZ-300 Links and Schedule
 - AZ-300L01 - Module 04 - Lesson 6 - Network Security Groups
 - AZ-300L01 - Module 04 - Lesson 4 - Intersite Connectivity
 - AZ-300L01 - Module 04 - Lesson 5 - Virtual Network Peering
-- Online Lab - Lab Launch #2, Lab C Configuring VNET Peering and Service Chaining
+- Online Lab - Lab Launch #2, Lab B - Configuring VNET Peering and Service Chaining
 - AZ-300L01 - Module 04 - Lesson 3 - Network Routing
 - AZ-300L02 - Module 03 - Lesson 1 - Azure Load Balancer
 - BONUS - Azure Application Gateway
