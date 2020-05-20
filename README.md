@@ -101,7 +101,8 @@ AZ-300 Links and Schedule
 - AZ-300L01 - Module 03 - Lesson 2 - Backup and Restore
 - BONUS - High Availability
 - BONUS - Virtual Machine Scale Sets
-- Online Lab - Lab Launch #1, Lab A - Implementing Custom Azure VM Images
+- (OPTIONAL) Online Lab - Lab Launch #1, Lab B - Implementing Custom Azure VM Images
+- Online Lab - [Managing Virtual Machine](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_08-Manage_Virtual_Machines.html)
 
 ### Thursday 
 
