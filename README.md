@@ -87,24 +87,20 @@ AZ-300 Links and Schedule
 - AZ-300L01 - Module 02 - Lesson 1 - Azure Storage Accounts
 - AZ-300L01 - Module 02 - Lesson 3 - Storing and Accessing Data
 - AZ-300L06 - Module 06 - Lesson 3 - Develop Solutions that use Microsoft Azure Blob Storage
-- AZ-300L06 - Module 06 - Lesson 1 - Develop Solutions that use Microsoft Azure Cosmos DB Storage
-- AZ-300L06 - Module 06 - Lesson 2 - Develop Solutions that use a Relational Database
 - AZ-300L03 - Module 03 - Lesson 1 - Encryption Options
-- AZ-300L03 - Module 03 - Lesson 2 - End to End Encryption
-- AZ-300L03 - Module 03 - Lesson 3 - Implement Azure Confidential Computing
-- AZ-300L03 - Module 05 - Lesson 4 - Implement SSL and TLS Communications
 - AZ-300L03 - Module 05 - Lesson 5 - Key Vault
 - Online Lab - Lab Launch #3, Lab A, Implementing Azure Storage Access Controls
+- AZ-300L06 - Module 06 - Lesson 1 - Develop Solutions that use Microsoft Azure Cosmos DB Storage
+- AZ-300L06 - Module 06 - Lesson 2 - Develop Solutions that use a Relational Database
+- AZ-300L03 - Module 03 - Lesson 3 - Implement Azure Confidential Computing
 
 #### Azure Virtual Machines
 
 - AZ-300L01 - Module 03 - Lesson 1 - Creating Virtual Machines
 - AZ-300L01 - Module 03 - Lesson 3 - Virtual Machine Extensions
-- BONUS - ARM Templates
 - AZ-300L01 - Module 03 - Lesson 2 - Backup and Restore
 - BONUS - High Availability
 - BONUS - Virtual Machine Scale Sets
-- BONUS - Dedicated Hosts
 - Online Lab - Lab Launch #1, Lab A - Implementing Custom Azure VM Images
 
 ### Thursday 
