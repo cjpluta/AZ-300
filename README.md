@@ -77,7 +77,7 @@ AZ-300 Links and Schedule
 - BONUS - Azure Application Gateway
 - AZ-300L02 - Module 03 - Lesson 2 - Application Load Balancing
 - AZ-300L02 - Module 03 - Lesson 4 - ExpressRoute Connections
-- AZ-300L02 - Module 03 - Lesson 5 - Azure Virtual WAN
+- AZ-300L02 - Module 03 - Lesson 5 - Azure Virtual Network Gateway
 - Online Lab - Lab Launch #3, Lab B - Implementing Azure Load Balancer Standard
 
 ### Wednesday 
@@ -148,9 +148,3 @@ AZ-300 Links and Schedule
 - AZ-300L04 - Module 01 - Lesson 5 - Creating an App Service Logic App
 - Online Lab -  Lab Launch 4, Lab A - Implementing Azure Logic Apps
 - BONUS Lab - Lab Launch 6, Lab A - Configuring a Messaged Based Integration Architecture
-
-#### Azure Security
-
-- AZ-300L03 - Module 04 - Lesson 1 - Implementing Authentication in Applications
-- AZ-300L03 - Module 04 - Lesson 3 - Claims-based Authorization
-- AZ-300L03 - Module 04 - Lesson 5 - Implement OAuth2 Authentication
