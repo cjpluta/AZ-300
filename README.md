@@ -52,22 +52,22 @@ AZ-303 Links and Schedule
 - Azure Portal Demo
 
 #### Module 1 - Virtual Networking
-- Azure Virtual Networks
-- IP Addressing
-- vNet Peering
-- VPN Gateways
+- Azure Virtual Networks - <https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview>
+- IP Addressing - <https://docs.microsoft.com/en-us/azure/virtual-network/private-ip-addresses>
+- vNet Peering - <https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview>
+- VPN Gateways - <https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways>
 
 #### Module 2 - Virtual Machines
-- Creating a VM
-- Sizing a VM
-- VM High Availability
-- VM Scale Sets
-- Azure Dedicated Hosts
-- Azure Disk Encryption
+- Creating a VM - <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview>
+- Sizing a VM - <https://docs.microsoft.com/en-us/azure/virtual-machines/sizes>
+- VM High Availability - <https://docs.microsoft.com/en-us/azure/virtual-machines/availability>
+- VM Scale Sets - <https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview?toc=/azure/virtual-machines/linux/toc.json&bc=/azure/virtual-machines/linux/breadcrumb/toc.json>
+- Azure Dedicated Hosts - <https://docs.microsoft.com/en-us/azure/virtual-machines/linux/dedicated-hosts>
+- Azure Disk Encryption - <https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview>
 
 #### Module 3 - Automate Deployments
-- ARM Templates
-- VHD Templates
+- ARM Templates - <https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview>
+- VHD Templates - <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image>
 - Deploying from a template
 - Automation Runbooks
 
@@ -149,11 +149,11 @@ AZ-303 Links and Schedule
 - App Insights
 - Unified Monitoring
 
-### Module 11 - App Security
+#### Module 11 - App Security
 - Managed Identities
 - Azure Key Vault
 
-### Module 12 - App Infrastructure
+#### Module 12 - App Infrastructure
 - App Services
 - Azure Container Registry
 - Deployment slots
