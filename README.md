@@ -68,11 +68,11 @@ AZ-303 Links and Schedule
 #### Module 3 - Automate Deployments
 - ARM Templates - <https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview>
 - VHD Templates - <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image>
-- Deploying from a template
-- Automation Runbooks
+- Deploying from a template - <https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-tutorial-local-template?tabs=azure-powershell>
+- Automation Runbooks - <https://docs.microsoft.com/en-us/azure/automation/automation-intro>
 
 #### Module 4 - Load Balancing and Network Security
-- Load Balancers
+- Load Balancers - <https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview>
 
 #### Lab
 - **LAB:** Implementing Highly Available Azure IaaS Compute Architecture
@@ -80,14 +80,14 @@ AZ-303 Links and Schedule
 ### Tuesday
 
 #### Module 4 - Load Balancing and Network Security
-- Application Gateways 
-- Web App Firewalls
-- Azure Front Door
-- Azure Traffic Manager
-- Azure Firewall
-- Network Security Groups
-- Application Security Groups 
-- Azure Bastion
+- Application Gateways - <https://docs.microsoft.com/en-us/azure/application-gateway/overview>
+- Web App Firewalls - <https://docs.microsoft.com/en-us/azure/web-application-firewall/overview>
+- Azure Front Door - <https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview>
+- Azure Traffic Manager - <https://docs.microsoft.com/en-us/azure/traffic-manager/>
+- Azure Firewall - <https://docs.microsoft.com/en-us/azure/firewall/>
+- Network Security Groups - <https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview>
+- Application Security Groups - <https://docs.microsoft.com/en-us/azure/virtual-network/application-security-groups>
+- Azure Bastion - <https://docs.microsoft.com/en-us/azure/bastion/bastion-overview>
 
 #### Module 5 - Storage Accounts
 - Account Types and Replication Options
