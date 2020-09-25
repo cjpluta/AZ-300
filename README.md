@@ -1,6 +1,6 @@
-# Azure Architect Technologies (AZ-300)
+# Azure Architect Technologies (AZ-303)
 
-AZ-300 Links and Schedule
+AZ-303 Links and Schedule
 
 ## Links
 
@@ -8,8 +8,8 @@ AZ-300 Links and Schedule
 
 - SkillPipe - <https://www.skillpipe.com>
 - Learn on Demand Systems - <https://aka.ms/tsfblabs/>
-- Lab Exercises - <https://aka.ms/az300labs>
-- Lab Files - <https://aka.ms/az300labfiles>
+- Lab Exercises - <https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies/tree/master/Instructions/Labs>
+- Lab Files - <https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies/archive/master.zip>
 
 ### Azure Tools
 
@@ -44,107 +44,136 @@ AZ-300 Links and Schedule
 
 #### Introduction
 
+- Subscriptions - <https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview>
 - Azure Regions - <https://azure.microsoft.com/en-us/global-infrastructure/regions/>
 - Azure Region Pairs - <https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions>
 - Azure Availability Sets - <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability>
 - Azure Availability Zones - <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability>
 - Azure Portal Demo
 
-#### Azure Security
+#### Module 1 - Virtual Networking
+- Azure Virtual Networks
+- IP Addressing
+- vNet Peering
+- VPN Gateways
 
-- AZ-300L01 - Module 01 - Lesson 5 - Subscriptions and Accounts
-- BONUS - Azure Policy
-- AZ-300L01 - Module 05 - Lesson 1 - Managing Azure Active Directory
-- AZ-300L01 - Module 05 - Lesson 2 - Implementing and Managing Hybrid Identities
-- AZ-300L03 - Module 04 - Lesson 2 - Implement Multi-Factor Authentication
-- AZ-300L03 - Module 04 - Lesson 6 - Implement Managed Identities for Azure Resources
-- AZ-300L03 - Module 04 - Lesson 4 - Role-based Access Control (RBAC)
-- Online Lab - Lab Launch 1, Lab C - Implementing User-Assigned Managed Identities for Azure Resources
-- Online Lab - Lab Launch 3, Lab C - Implementing Custom Role Based Access Control (RBAC) Roles
+#### Module 2 - Virtual Machines
+- Creating a VM
+- Sizing a VM
+- VM High Availability
+- VM Scale Sets
+- Azure Dedicated Hosts
+- Azure Disk Encryption
 
-### Tuesday 
+#### Module 3 - Automate Deployments
+- ARM Templates
+- VHD Templates
+- Deploying from a template
+- Automation Runbooks
 
-#### Azure Networking
+#### Module 4 - Load Balancing and Network Security
+- Load Balancers
 
-- AZ-300L01 - Module 04 - Lesson 1 - Azure Virtual Networks
-- AZ-300L01 - Module 04 - Lesson 2 - Review of IP Addressing
-- AZ-300L01 - Module 04 - Lesson 6 - Network Security Groups
-- AZ-300L01 - Module 04 - Lesson 4 - Intersite Connectivity
-- AZ-300L01 - Module 04 - Lesson 5 - Virtual Network Peering
-- Online Lab - Lab Launch #2, Lab B - Configuring VNET Peering and Service Chaining
-- AZ-300L01 - Module 04 - Lesson 3 - Network Routing
-- AZ-300L02 - Module 03 - Lesson 1 - Azure Load Balancer
-- BONUS - Azure Application Gateway
-- AZ-300L02 - Module 03 - Lesson 2 - Application Load Balancing
-- AZ-300L02 - Module 03 - Lesson 4 - ExpressRoute Connections
-- AZ-300L02 - Module 03 - Lesson 5 - Azure Virtual Network Gateway
-- Online Lab - Lab Launch #3, Lab B - Implementing Azure Load Balancer Standard
+#### Lab
+- **LAB:** Implementing Highly Available Azure IaaS Compute Architecture
 
-### Wednesday 
+### Tuesday
 
-#### Azure Storage
+#### Module 4 - Load Balancing and Network Security
+- Application Gateways 
+- Web App Firewalls
+- Azure Front Door
+- Azure Traffic Manager
+- Azure Firewall
+- Network Security Groups
+- Application Security Groups 
+- Azure Bastion
 
-- AZ-300L01 - Module 02 - Lesson 1 - Azure Storage Accounts
-- AZ-300L01 - Module 02 - Lesson 3 - Storing and Accessing Data
-- AZ-300L06 - Module 06 - Lesson 3 - Develop Solutions that use Microsoft Azure Blob Storage
-- AZ-300L03 - Module 03 - Lesson 1 - Encryption Options
-- AZ-300L03 - Module 05 - Lesson 5 - Key Vault
-- Online Lab - Lab Launch #3, Lab A, Implementing Azure Storage Access Controls
-- AZ-300L06 - Module 06 - Lesson 1 - Develop Solutions that use Microsoft Azure Cosmos DB Storage
-- AZ-300L06 - Module 06 - Lesson 2 - Develop Solutions that use a Relational Database
-- AZ-300L03 - Module 03 - Lesson 3 - Implement Azure Confidential Computing
+#### Module 5 - Storage Accounts
+- Account Types and Replication Options
+- Blob Storage Containers and Access Tiers
+- Access Keys and SAS Tokens
+- AAD Authentication and RBAC
+- Storage Firewall and Network Access
+- Data Transfer
 
-#### Azure Virtual Machines
+#### Module 6 - Azure Active Directory
+- AAD Concepts
+- Users and Groups
+- Custom Domains
+- AAD Identity Protection
+- Conditional Access
+- Multi-Factor Authentication
+- Trusted IPs
+- Guest Accounts (B2B & B2C)
+- Multiple Directories
 
-- AZ-300L01 - Module 03 - Lesson 1 - Creating Virtual Machines
-- AZ-300L01 - Module 03 - Lesson 3 - Virtual Machine Extensions
-- AZ-300L01 - Module 03 - Lesson 2 - Backup and Restore
-- BONUS - High Availability
-- BONUS - Virtual Machine Scale Sets
-- (OPTIONAL) Online Lab - Lab Launch #1, Lab B - Implementing Custom Azure VM Images
-- Online Lab - [Managing Virtual Machine](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_08-Manage_Virtual_Machines.html)
+#### Lab
+- **LAB:** Implementing and Configuring Azure Storage File and Blob Services
 
-### Thursday 
+### Wednesday
 
-#### Workloads
+#### Module 7 - Governance
+- Resource Groups
+- Management Groups
+- RBAC
+- Access Reveiws
+- Azure Policy
+- Azure Blueprints
 
-- AZ-300L02 - Module 01 - Lesson 1 - Migrate to Azure
-- AZ-300L02 - Module 01 - Lesson 2 - Azure Migrate
-- AZ-300L02 - Module 01 - Lesson 3 - Azure Site Recovery
-- AZ-300L02 - Module 01 - Lesson 4 - Prepare the Infrastructure
-- AZ-300L01 - Module 01 - Lesson 1 - Exploring Monitoring Capabilities in Azure
-- AZ-300L01 - Module 01 - Lesson 3 - Azure Monitor Logs and Log Analytics
-- AZ-300L01 - Module 01 - Lesson 2 - Azure Alerts
-- AZ-300L01 - Module 01 - Lesson 4 - Network Watcher
-- Online Lab - Lab Launch #2, Lab A - Implementing Azure to Azure Migration
-- Online Lab - Lab Launch #1, Lab A - Exploring Monitoring Capabilities in Azure
+#### Module 8 - Hybrid Identities
+- Azure AD Connect
+- Password-Hash Sync and Password Writeback
+- Azure AD Connect Health
 
-#### Apps
+#### Module 9 - Workloads
+- Azure Migrate
+- Agentless vs Agent-based Migration
+- Azure Backup / Recovery Services Vault
+- Azure Site Recovery
 
-- AZ-300L04 - Module 03 - Lesson 1 - Creating an Azure Kubernetes Service Cluster
-- AZ-300L04 - Module 03 - Lesson 2 - Deploy an AKS Cluster
-- AZ-300L04 - Module 03 - Lesson 3 - Publish a Container Image to Azure Container Registry
-- AZ-300L04 - Module 03 - Lesson 4 - Create and Run Container Images in Azure Container Instances
-- AZ-300L04 - Module 01 - Lesson 1 - Azure App Service Core Components
-- AZ-300L02 - Module 02 - Lesson 1 - Deploying Web Apps
-- AZ-300L04 - Module 01 - Lesson 2 - Creating an Azure App Service Web App
-- AZ-300L02 - Module 02 - Lesson 3 - App Service Security
-- AZ-300L02 - Module 02 - Lesson 2 - Managing Web Apps
-- AZ-300L04 - Module 01 - Lesson 3 - Creating Background Tasks
-- BONUS Lab - [Implement Web Apps](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
+#### Lab
+- **Lab:** Managing Azure Role-Based Access Control
+- **Lab:** Protecting Hyper-V VMs by using Azure Site Recovery
+
+### Thursday
+
+#### Module 10 - Monitoring
+- Azure Monitor
+- Metrics & Alerts
+- Log Analytics
+- Network Watcher
+- Azure Service Health
+- Azure Workbooks
+- Cost Management
+- App Insights
+- Unified Monitoring
+
+### Module 11 - App Security
+- Managed Identities
+- Azure Key Vault
+
+### Module 12 - App Infrastructure
+- App Services
+- Azure Container Registry
+- Deployment slots
+- Azure Functions
+- Logic Apps
+
+### Lab
+- **Lab:** Implementing an Azure App Service Web App with a Staging Slot
+- **Lab:** Configuring a Message-Based Integration Architecture
 
 ### Friday
 
-#### Apps *(Continued)*
+#### Module 13 - Containers
+- Azure Kubernetes Service
+- Azure Container Instances
 
-- AZ-300L02 - Module 02 - Lesson 4 - Serverless Computing Concepts
-- AZ-300L02 - Module 02 - Lesson 5 - Managing Azure Functions
-- AZ-300L04 - Module 04 - Lesson 3 - Implement Durable Functions
-- AZ-300L02 - Module 02 - Lesson 6 - Managing Event Grid
-- AZ-300L06 - Module 02 - Lesson 5 - Create and Configure an Event Hub
-- AZ-300L02 - Module 02 - Lesson 7 - Managing Service Bus
-- AZ-300L06 - Module 02 - Lesson 4 - Create and Configure a Notification Hub
-- AZ-300L02 - Module 02 - Lesson 8 - Managing Logic Apps
-- AZ-300L04 - Module 01 - Lesson 5 - Creating an App Service Logic App
-- Online Lab -  Lab Launch 4, Lab A - Implementing Azure Logic Apps
-- BONUS Lab - Lab Launch 6, Lab A - Configuring a Messaged Based Integration Architecture
+#### Module 14 - NoSQL
+- Azure Table Storage
+- CosmosDB
+
+#### Module 15 - Azure SQL
+- Single Databases
+- Managed Instances
