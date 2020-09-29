@@ -75,7 +75,7 @@ AZ-303 Links and Schedule
 - Load Balancers - <https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview>
 
 #### Lab
-- **LAB:** Implementing Highly Available Azure IaaS Compute Architecture
+- **LAB:** [Implementing Highly Available Azure IaaS Compute Architecture](https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Instructions/Labs/Module_4_Lab.md)
 
 ### Tuesday
 
@@ -109,7 +109,7 @@ AZ-303 Links and Schedule
 - Multiple Directories - <https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory>
 
 #### Lab
-- **LAB:** Implementing and Configuring Azure Storage File and Blob Services
+- **LAB:** [Implementing and Configuring Azure Storage File and Blob Services](https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Instructions/Labs/Module_5_Lab.md)
 
 ### Wednesday
 
@@ -133,8 +133,8 @@ AZ-303 Links and Schedule
 - Azure Site Recovery - <https://docs.microsoft.com/en-us/azure/backup/backup-center-overview>
 
 #### Lab
-- **Lab:** Managing Azure Role-Based Access Control
-- **Lab:** Protecting Hyper-V VMs by using Azure Site Recovery
+- **Lab:** [Managing Azure Role-Based Access Control](https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Instructions/Labs/Module_7_Lab.md)
+- **Lab:** [Protecting Hyper-V VMs by using Azure Site Recovery](https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Instructions/Labs/Module_9_Lab.md)
 
 ### Thursday
 
@@ -161,8 +161,8 @@ AZ-303 Links and Schedule
 - Logic Apps - <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview>
 
 ### Lab
-- **Lab:** Implementing an Azure App Service Web App with a Staging Slot
-- **Lab:** Configuring a Message-Based Integration Architecture
+- **Lab:** [Implementing an Azure App Service Web App with a Staging Slot](https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Instructions/Labs/Module_12_Lab_a.md)
+- **Lab:** [Configuring a Message-Based Integration Architecture](https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Instructions/Labs/Module_12_Lab_b.md)
 
 ### Friday
 
